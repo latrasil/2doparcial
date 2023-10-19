@@ -1,0 +1,6 @@
+.button
+{
+    width: 76px;
+    height: 33px;
+    flex-shrink: 0;
+}

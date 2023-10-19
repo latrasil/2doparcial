@@ -1,7 +1,11 @@
 import React from "react";
-
-function Card(props){
-    const perfil = props.perfil;
-
-    return
+import Card from "../style"
+function card(props) 
+{
+    return(
+        <section className='Card'>
+            
+        </section>
+    )
 }
+export default card
